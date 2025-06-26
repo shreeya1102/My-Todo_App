@@ -1,6 +1,6 @@
-# To-Do List App (Python)
+# To-Do List App 
 
-A simple and lightweight **To-Do List Web App** built using Python and Streamlit. This app allows users to:
+A simple and lightweight To-Do List Web App built using Python and Streamlit. This app allows users to:
 - Add tasks
 - Mark them as complete
 - Delete tasks  
@@ -26,5 +26,5 @@ A simple and lightweight **To-Do List Web App** built using Python and Streamlit
 ```bash
 git clone https://github.com/shreeya1102/todo_app
 
-Navigate to the project folder and run:
+**Navigate to the project folder and run:
 streamlit run todo.py
